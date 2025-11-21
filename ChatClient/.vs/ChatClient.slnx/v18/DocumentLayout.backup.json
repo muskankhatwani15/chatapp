@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muska\\Downloads\\cpp_chat_app_windows\\ChatClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9775F491-A6B8-43D6-B339-0F1A14194DD4}|ChatClient\\ChatClient.vcxproj|C:\\Users\\muska\\Downloads\\cpp_chat_app_windows\\ChatClient\\ChatClient\\ChatClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9775F491-A6B8-43D6-B339-0F1A14194DD4}|ChatClient\\ChatClient.vcxproj|solutionrelative:ChatClient\\ChatClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatClient.cpp",
+              "DocumentMoniker": "C:\\Users\\muska\\Downloads\\cpp_chat_app_windows\\ChatClient\\ChatClient\\ChatClient.cpp",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClient.cpp",
+              "ToolTip": "C:\\Users\\muska\\Downloads\\cpp_chat_app_windows\\ChatClient\\ChatClient\\ChatClient.cpp",
+              "RelativeToolTip": "ChatClient\\ChatClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T08:01:52.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

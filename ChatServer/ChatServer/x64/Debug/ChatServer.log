@@ -1,0 +1,3 @@
+﻿  ChatServer.cpp
+C:\Users\muska\Downloads\cpp_chat_app_windows\ChatServer\ChatServer\ChatServer.cpp(24,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatServer.vcxproj -> C:\Users\muska\Downloads\cpp_chat_app_windows\ChatServer\x64\Debug\ChatServer.exe

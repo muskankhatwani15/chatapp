@@ -1,0 +1,4 @@
+﻿  ChatClient.cpp
+C:\Users\muska\Downloads\cpp_chat_app_windows\ChatClient\ChatClient\ChatClient.cpp(77,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\muska\Downloads\cpp_chat_app_windows\ChatClient\ChatClient\ChatClient.cpp(89,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatClient.vcxproj -> C:\Users\muska\Downloads\cpp_chat_app_windows\ChatClient\x64\Debug\ChatClient.exe
