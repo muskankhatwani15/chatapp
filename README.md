@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  C++ Chat Application (Windows)
 
@@ -205,3 +206,6 @@ If you want, I can also add:
 ✅ GIF setup demo
 
 Just tell me!
+=======
+# chatapp
+>>>>>>> f929ba91dec010047f245e5d3316835b8ce9a058
